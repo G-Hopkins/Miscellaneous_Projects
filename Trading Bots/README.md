@@ -1,4 +1,4 @@
-High frequency trading bots utilising exponentially weighted moving averages (by second) 
+High frequency trading bot frameworks, utilising exponentially weighted moving averages (by second) 
 
 w/ visual exploratory analysis of individual stocks
 
