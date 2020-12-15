@@ -7,8 +7,8 @@ from datetime import datetime, timedelta
 import alpaca_trade_api as alpaca
 
 #API info
-key = 'PKCRMQB7AZB9LP8QVXLN'
-sk = 'or4z5Tx7Zc6K9Ec5Iirjc8W4CYFcTJqrRjx1DcC4'
+key = '###'
+sk = '###'
 url = 'https://paper-api.alpaca.markets'
 api = alpaca.REST(key, sk, url, api_version='v2')
 
